@@ -1,0 +1,3 @@
+Clients
+1.	Client logo not showing in add and edit modals.
+2.	Client logo not deleting on editing.
