@@ -9,7 +9,7 @@ import GyanDetails from './pages/Gyan'
 import Clients from './pages/Clients'
 import Financials from './pages/Financials'
 import Leads from './pages/Leads'
-import OffPage from './pages/OffPage'
+import OffPage from './pages/OffPage' 
 
 class Index extends Component {
     render() {
